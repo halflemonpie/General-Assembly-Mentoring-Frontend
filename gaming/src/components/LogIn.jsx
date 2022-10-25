@@ -1,6 +1,8 @@
 // export default function LogIn() {}
+// export default function LogIn({ handleEmailChange, handlePasswordChange, handleLogIn }) {
 
-export default function LogIn({ handleEmailChange, handlePasswordChange, handleLogIn }) {
+export default function LogIn({ handleEmailChange, handlePasswordChange, handleSignIn }) {
+
  
   return (
     <div>
