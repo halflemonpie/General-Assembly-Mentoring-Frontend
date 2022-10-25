@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import { deleteCalendar, getCalendar } from "../services/calendar.js.js.js.js";
+import { updateCalendar, getCalendar } from "../services/calendar.js.js";
 
 export default function mainBoardCalendar({ setToggle, toggle }) {
   const [calendar, setCalendar] = useState({});
