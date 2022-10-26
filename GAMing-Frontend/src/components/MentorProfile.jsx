@@ -1,5 +1,5 @@
+import React from "react";
 import { useState, useEffect } from "react";
-// import React from "react";
 
 export default function MentorProfile(props) {
   const [content, setcontent] = useState(<img src={props.picture}></img>);
