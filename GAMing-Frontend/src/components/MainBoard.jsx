@@ -1,4 +1,5 @@
 import React from 'react';
+import "./MainBoard.css";
 import { NavLink } from 'react-router-dom';
 
 export default function MainBoard({ MainBoard }) {

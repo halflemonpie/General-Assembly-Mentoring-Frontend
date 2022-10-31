@@ -1,4 +1,5 @@
 import React from "react";
+import "./LogOut.css";
 // import React, { useEffect } from "react";
 
 export default function LogOut({setLogIn}) {

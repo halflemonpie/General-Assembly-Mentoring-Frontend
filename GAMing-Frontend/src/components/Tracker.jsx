@@ -6,6 +6,7 @@ import FeedbackFromMentor from "./FeedbackFromMentor";
 import { useNaviagte } from "react-router-dom";
 import { useState } from "react";
 import { useRef } from "react";
+import "./Tracker.css";
 
 export default function ModalTracker({ setShowModal }) {
   const user = useSelector((state) => state.user);

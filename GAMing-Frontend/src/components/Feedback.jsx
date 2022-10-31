@@ -8,6 +8,7 @@ import MentorProfile from "./MentorProfile";
 import MentorBackground from "./MentorBackground";
 import { useState } from "react";
 import { useEffect } from "react";
+import "./Feedback.css";
 export default function Feedback() {
   let { feedbackid } = useParams();
   const user = useSelector((state) => state.user);
@@ -26,7 +27,7 @@ export default function Feedback() {
       .then((res) => res.json())
       .then((data) => setFeedpost(data))
       .then(() => {
-        fetch('')
+        fetch('https://gaming-database.up.railway.app/api/docs/')
           .then((res) => res.json())
           .then((data) => {
             if (data.length) setFeeds(data);
@@ -49,10 +50,10 @@ export default function Feedback() {
         picture={``}
       />
       <div className="feed-section-main-container">
-        <HatePost hate={hatepost}></HatePost>
+        <MentorPost mentor={mentorpost}></MentorPost>
         <div className="comment-feed">
           {!comments ? (
-            <h3 className="comment-no-one">No one is here ¯\_( ツ )_/¯</h3>
+            <h3 className="comment-no-one">This Mentor is good!</h3>
           ) : (
             comments.map((comment, i) => (
               <MiniComments key={i} hater={comment}></MiniComments>

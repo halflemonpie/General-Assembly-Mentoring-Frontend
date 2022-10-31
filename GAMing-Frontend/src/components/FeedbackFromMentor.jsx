@@ -1,6 +1,7 @@
 import React from "react";
 import FeedbackFromMentor from "./FeedbackFromMentor";
 import Feedback from "./Feedback";
+import "./FeedbackFromMentor.css";
 export default function FeedbackFromMentor() {
   let { feedbackmentorid } = useParams();
   const user = useSelector((state) => state.user);

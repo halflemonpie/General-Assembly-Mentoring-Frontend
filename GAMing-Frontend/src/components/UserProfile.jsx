@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom';
+import "./UserProfile.css";
 
 export default function userProfile({ userP }) {
 

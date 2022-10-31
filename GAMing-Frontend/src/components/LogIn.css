@@ -1,0 +1,164 @@
+.continue-position {
+  position: absolute;
+  width: 166px;
+  height: 50px;
+  left: 959px;
+  top: 703px;
+}
+
+.continue-text {
+  position: absolute;
+  width: 83px;
+  height: 22px;
+  left: 1000px;
+  top: 717px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 22px;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+.continue-button {
+  position: absolute;
+  width: 166px;
+  height: 50px;
+  left: 959px;
+  top: 703px;
+  background: #FA4542;
+  box-shadow: 0px 3px 0px #AD0909;
+  border-radius: 5px;
+}
+
+.need-help {
+  position: absolute;
+  width: 345px;
+  height: 23px;
+  left: 543px;
+  top: 902px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: right;
+  color: #000000;
+}
+
+.dont-have {
+  position: absolute;
+  width: 290px;
+  height: 23px;
+  left: 619px;
+  top: 716px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: right;
+  color: #000000;
+}
+
+.email-box-position {
+  position: absolute;
+  width: 506px;
+  height: 69px;
+  left: 619px;
+  top: 603px;
+}
+
+.your-email {
+  position: absolute;
+  width: 116px;
+  height: 28px;
+  left: 642px;
+  top: 624px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: right;
+  color: #C4C4C4;
+}
+
+.email-box {
+  box-sizing: border-box;
+  position: absolute;
+  width: 506px;
+  height: 69px;
+  left: 619px;
+  top: 603px;
+  border: 1px solid #B4B4B4;
+  border-radius: 5px;
+}
+
+.sign-in {
+  position: absolute;
+  width: 114px;
+  height: 39px;
+  left: 618px;
+  top: 425px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 39px;
+  text-align: right;
+  color: #000000;
+}
+
+.ga-logo-position {
+  position: absolute;
+  width: 81px;
+  height: 78px;
+  left: 831px;
+  top: 282px;
+}
+
+.ga-logo {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: url(CMYK-Red_Small_GeneralAssembly-Cog.png);
+  border-radius: 102.5px;
+}
+
+.email-text {
+  position: absolute;
+  width: 70px;
+  height: 30px;
+  left: 618px;
+  top: 550px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 30px;
+  text-align: right;
+  color: #000000;
+}
+
+.sign-in-box {
+  position: absolute;
+  width: 640px;
+  height: 640px;
+  left: 544px;
+  top: 239px;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 20px 1px rgba(0, 0, 0, 0.25);
+}
+
+.sign-in-page {
+  position: absolute;
+  width: 1728px;
+  height: 1020px;
+  left: 0px;
+  top: 97px;
+  background: #F6F6F6;
+}

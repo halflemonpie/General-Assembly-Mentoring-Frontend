@@ -1,0 +1,393 @@
+.nav-bar {
+  position: absolute;
+  width: 1728px;
+  height: 62px;
+  left: 0px;
+  top: 97px;
+  background: #222222;
+}
+
+.group-38 {
+  position: absolute;
+  width: 79px;
+  height: 62px;
+  left: 1592px;
+  top: 0px;
+}
+
+.head-icon {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1607px;
+  top: 6px;
+  background: url(image);
+  border-radius: 50px;
+}
+
+.find-a-mentor {
+  position: absolute;
+  width: 127px;
+  height: 24px;
+  left: 1225px;
+  top: 19px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.menu {
+  position: absolute;
+  left: 81.66%;
+  right: 16.26%;
+  top: 20.97%;
+  bottom: 20.97%;
+  background: #F8F8F8;
+}
+
+.bell {
+  position: absolute;
+  left: 87.79%;
+  right: 10.3%;
+  top: 20.97%;
+  bottom: 19.35%;
+  background: #F8F8F8;
+}
+
+.ga-logo {
+  position: absolute;
+  width: 331px;
+  height: 36px;
+  left: 43px;
+  top: 13px;
+}
+
+.ga-logo-image {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: url(ga-lockup-e7ca2ce7bf63573ee4ffb09b031e2ce0);  
+}
+
+.side-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 30px;
+  position: absolute;
+  width: 226px;
+  height: 425px;
+  left: 136px;
+  top: 346px;
+}
+
+.home {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.profile {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.messaging {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.seesions {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.accountibility {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.settings {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.support {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.header-photo {
+  position: absolute;
+  width: 1249px;
+  height: 156px;
+  left: 403px;
+  top: 159px;
+  background: url(pexels-pixabay-161154.jpg);
+}
+
+.profile-photo {
+  position: absolute;
+  width: 225px;
+  height: 225px;
+  left: 496px;
+  top: 251px;
+  background: url(image.png);
+  border-radius: 230px;
+}
+
+.Dianne-name {
+  position: absolute;
+  width: 297px;
+  height: 39px;
+  left: 750px;
+  top: 344px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 39px;
+  color: #000000;
+}
+
+.student-at-ga {
+  position: absolute;
+  width: 260px;
+  height: 23px;
+  left: 750px;
+  top: 388px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.pencil-icon {
+  position: absolute;
+  width: 63px;
+  height: 63px;
+  left: 655px;
+  top: 415px;
+  background: #FFFFFF;
+}
+
+.user-info {
+  position: absolute;
+  width: 1062px;
+  height: 0px;
+  left: 530px;
+  top: 549px;
+  border: 1px solid #C4C4C4;
+}
+
+.about {
+  position: absolute;
+  width: 83px;
+  height: 21px;
+  left: 530px;
+  top: 565px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.proficient {
+  position: absolute;
+  width: 105px;
+  height: 21px;
+  left: 531px;
+  top: 723px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.links {
+  position: absolute;
+  width: 48px;
+  height: 21px;
+  left: 531px;
+  top: 842px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  color: #000000;
+}
+
+.paragraph {
+  position: absolute;
+  width: 758px;
+  height: 93px;
+  left: 531px;
+  top: 596px;
+  font-family: 'Georgia';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.ux-button {
+  position: absolute;
+  width: 159px;
+  height: 47px;
+  left: 532px;
+  top: 762px;
+}
+
+.button {
+  background: #FA4542;
+}
+
+.red-button {
+  box-shadow: 0px 3px 0px #AD0909;
+  border-radius: 5px;
+}
+
+.ux-design {
+  position: absolute;
+  width: 126px;
+  height: 42px;
+  left: 550px;
+  top: 765px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.edit-profile {
+  position: absolute;
+  width: 108px;
+  height: 42px;
+  left: 1480px;
+  top: 339px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #1C1C1C;
+}
+
+.edit-button {
+  position: absolute;
+  width: 159px;
+  height: 47px;
+  left: 1454px;
+  top: 336px;
+}
+
+.button {
+  background: #F6F6F6;
+}
+
+.white-button {
+  box-shadow: 0px 3px 0px #A2A2A2;
+  border-radius: 5px;
+}
+
+.linkedin {
+  position: absolute;
+  left: 30.79%;
+  right: 66.67%;
+  top: 78.69%;
+  bottom: 17.37%;
+  background: #000000;
+}
+
+.email {
+  position: absolute;
+  left: 34.61%;
+  right: 62.73%;
+  top: 78.69%;
+  bottom: 17.19%;
+  background: #000000;
+}

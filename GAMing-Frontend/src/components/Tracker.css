@@ -1,0 +1,680 @@
+.tracking-profile {
+  position: absolute;
+  width: 766px;
+  height: 504px;
+  left: 447px;
+  top: 454px;
+}
+
+.tracking-profile-one {
+  position: absolute;
+  width: 766px;
+  height: 233px;
+  left: 447px;
+  top: 725px;
+}
+
+.time-logo-lower {
+  position: absolute;
+  left: 53.07%;
+  right: 45.31%;
+  top: 76.45%;
+  bottom: 21.04%;
+  background: #5B5B5B;
+}
+
+.calendar-logo-lower {
+  position: absolute;
+  left: 53.07%;
+  right: 45.31%;
+  top: 71.8%;
+  bottom: 25.69%;
+  background: #5B5B5B;
+}
+
+.detail-box-lower {
+  position: absolute;
+  width: 88px;
+  height: 23px;
+  left: 1107px;
+  top: 917px;
+}
+
+.arrow-lower {
+  position: absolute;
+  left: 68.52%;
+  right: 30.38%;
+  top: 84.06%;
+  bottom: 14.95%;
+  background: #5B5B5B;
+  transform: rotate(-90deg);
+}
+
+.details-text-lower {
+  position: absolute;
+  width: 66px;
+  height: 23px;
+  left: 1107px;
+  top: 917px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.times-lower {
+  position: absolute;
+  width: 232px;
+  height: 23px;
+  left: 960px;
+  top: 856px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.dates-lower {
+  position: absolute;
+  width: 169px;
+  height: 23px;
+  left: 960px;
+  top: 807px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.brief-case-logo-lower {
+  position: absolute;
+  left: 37.91%;
+  right: 60.3%;
+  top: 77.62%;
+  bottom: 19.79%;
+  background: #000000;
+}
+
+.us-text-lower {
+  position: absolute;
+  width: 32px;
+  height: 18px;
+  left: 791px;
+  top: 785px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.adam-reaves-lower {
+  position: absolute;
+  width: 132px;
+  height: 23px;
+  left: 655px;
+  top: 782px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.senior-ux-designer-lower {
+  position: absolute;
+  width: 142px;
+  height: 18px;
+  left: 694px;
+  top: 875px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.google-lower {
+  position: absolute;
+  width: 52px;
+  height: 18px;
+  left: 655px;
+  top: 827px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.profile-image-lower {
+  position: absolute;
+  width: 137px;
+  height: 137px;
+  left: 491px;
+  top: 773px;
+  background: url(pexels-ono-kosuki-5973965.jpg);
+  border-radius: 15px;
+}
+
+.schedule-box-lower {
+  position: absolute;
+  width: 327px;
+  height: 233px;
+  left: 1213px;
+  top: 958px;
+  transform: rotate(-180deg);
+}
+
+.profile-box-lower {
+  position: absolute;
+  width: 440px;
+  height: 233px;
+  left: 447px;
+  top: 725px;
+}
+
+.time-logo-upper {
+  position: absolute;
+  left: 53.07%;
+  right: 45.31%;
+  top: 52.19%;
+  bottom: 45.3%;
+  background: #5B5B5B;
+}
+
+.calendar-logo-upper {
+  position: absolute;
+  left: 53.07%;
+  right: 45.31%;
+  top: 47.54%;
+  bottom: 49.96%;
+  background: #5B5B5B;
+}
+
+.detail-box-upper {
+  position: absolute;
+  width: 88px;
+  height: 23px;
+  left: 1107px;
+  top: 646px;
+}
+
+.arrow-upper {
+  position: absolute;
+  left: 68.52%;
+  right: 30.38%;
+  top: 59.8%;
+  bottom: 39.21%;
+  background: #5B5B5B;
+  transform: rotate(-90deg);
+}
+
+.detail-text-upper {
+  position: absolute;
+  width: 66px;
+  height: 23px;
+  left: 1107px;
+  top: 646px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.times-upper {
+  position: absolute;
+  width: 232px;
+  height: 23px;
+  left: 960px;
+  top: 585px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.dates-upper {
+  position: absolute;
+  width: 180px;
+  height: 23px;
+  left: 960px;
+  top: 536px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.brief-case-logo-upper {
+  position: absolute;
+  left: 37.91%;
+  right: 60.3%;
+  top: 53.36%;
+  bottom: 44.05%;
+  background: #000000;
+}
+
+.us-text-upper {
+  position: absolute;
+  width: 32px;
+  height: 18px;
+  left: 791px;
+  top: 514px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.adam-reaves-upper {
+  position: absolute;
+  width: 132px;
+  height: 23px;
+  left: 655px;
+  top: 511px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.senior-ux-designer-upper {
+  position: absolute;
+  width: 142px;
+  height: 18px;
+  left: 694px;
+  top: 604px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.google-upper {
+  position: absolute;
+  width: 52px;
+  height: 18px;
+  left: 655px;
+  top: 556px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #000000;
+}
+
+.profile-image-upper {
+  position: absolute;
+  width: 137px;
+  height: 137px;
+  left: 491px;
+  top: 502px;
+  background: url(pexels-ono-kosuki-5973965.jpg);
+  border-radius: 15px;
+}
+
+.schedule-box-upper {
+  position: absolute;
+  width: 327px;
+  height: 233px;
+  left: 1213px;
+  top: 687px;
+  transform: rotate(-180deg);
+}
+
+.profile-box-upper {
+  position: absolute;
+  width: 440px;
+  height: 233px;
+  left: 447px;
+  top: 454px;
+}
+
+.sessions-tab {
+  position: absolute;
+  width: 294px;
+  height: 42px;
+  left: 447px;
+  top: 376px;
+}
+
+.tabs {
+  position: absolute;
+  width: 49px;
+  height: 27px;
+  left: 236px;
+  top: 4px;
+}
+
+
+.past {
+  position: absolute;
+  width: 49px;
+  height: 27px;
+  left: 236px;
+  top: 4px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  color: #000000;
+}
+
+.red-underline {
+  position: absolute;
+  width: 49px;
+  height: 0px;
+  left: 285px;
+  top: 31px;
+  border: 5px solid #E51B24;
+  transform: rotate(180deg);
+}
+
+.upcoming {
+  position: absolute;
+  width: 91px;
+  height: 30px;
+  left: 0px;
+  top: 4px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.pending {
+  position: absolute;
+  width: 82px;
+  height: 30px;
+  left: 126px;
+  top: 4px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: center;
+  color: #000000;
+}
+
+.see-you-current {
+  position: absolute;
+  width: 617px;
+  height: 52px;
+  left: 447px;
+  top: 287px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #000000;
+}
+
+.sessions {
+  position: absolute;
+  width: 326px;
+  height: 35px;
+  left: 447px;
+  top: 215px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.underline {
+  position: absolute;
+  width: 1249px;
+  height: 0px;
+  left: 403px;
+  top: 414px;
+  border: 1px solid #C4C4C4;
+}
+
+.nav-bar {
+  position: absolute;
+  width: 1728px;
+  height: 62px;
+  left: 0px;
+  top: 97px;
+  background: #222222;
+}
+
+.group-38 {
+  position: absolute;
+  width: 79px;
+  height: 62px;
+  left: 1592px;
+  top: 0px;
+}
+
+.head-icon {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1607px;
+  top: 6px;
+  background: url(image);
+  border-radius: 50px;
+}
+
+.find-a-mentor {
+  position: absolute;
+  width: 127px;
+  height: 24px;
+  left: 1225px;
+  top: 19px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 19px;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  color: #FFFFFF;
+}
+
+.menu {
+  position: absolute;
+  left: 81.66%;
+  right: 16.26%;
+  top: 20.97%;
+  bottom: 20.97%;
+  background: #F8F8F8;
+}
+
+.bell {
+  position: absolute;
+  left: 87.79%;
+  right: 10.3%;
+  top: 20.97%;
+  bottom: 19.35%;
+  background: #F8F8F8;
+}
+
+.ga-logo {
+  position: absolute;
+  width: 331px;
+  height: 36px;
+  left: 43px;
+  top: 13px;
+}
+
+.ga-logo-image {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: url(ga-lockup-e7ca2ce7bf63573ee4ffb09b031e2ce0);  
+}
+
+.side-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 30px;
+  position: absolute;
+  width: 226px;
+  height: 425px;
+  left: 136px;
+  top: 346px;
+}
+
+.home {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.profile {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.messaging {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.seesions {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.accountibility {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.settings {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}
+
+.support {
+  position: absolute;
+  width: 226px;
+  height: 35px;
+  left: 0px;
+  top: 0px;
+  font-family: 'Arial';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 37px;
+  color: #000000;
+}

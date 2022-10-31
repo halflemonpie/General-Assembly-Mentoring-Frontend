@@ -3,6 +3,7 @@ import Feedback from "./Feedback";
 import FeedbackFromMentor from "./FeedbackFromMentor";
 import { useState, useEffect } from "react";
 import Categories from "./Categories";
+import "./Notification.css";
 
 export default function Notification() {
   const [notify, setNotify] = useState([]);
